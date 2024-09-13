@@ -1,5 +1,5 @@
 /**
- * @license
+ * @licensee
  * Copyright 2015 The Emscripten Authors
  * SPDX-License-Identifier: MIT
  */
